@@ -43,6 +43,7 @@ Projekt má následující strukturu:
 │   ├── brick(1-6).png
 ├── Makefile            # Makefile pro kompilaci
 ├── README.md           # Dokumentace projektu
+├── score.txt           # Soubor se zaznamem score
 ```
 
 ---
